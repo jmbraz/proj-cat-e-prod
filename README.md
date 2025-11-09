@@ -14,11 +14,11 @@ O sistema utiliza o MySQL (produção) e o H2 Database (testes locais).
 🧱 Integração com MySQL ou H2
 
 🧪 Testando a API no Isonomia
-🔍 GET — Listar todos os produtos
+🔍 GET — Listar todos os produtos ou categoria
 
 Endpoint:
 
-GET http://localhost:8080/produtos
+GET http://localhost:8080/categoria
 
 
 Descrição:
@@ -28,11 +28,11 @@ Use este método para verificar se os produtos foram salvos corretamente.
 <img width="1070" height="547" alt="Captura de tela 2025-11-09 115034" src="https://github.com/user-attachments/assets/1c377d74-56ec-44d8-97aa-723222b4dd1e" />
 
 -------------------------------------------------------------------------
-➕ POST — Cadastrar novo produto
+➕ POST — Cadastrar novo produto ou categoria
 
 Endpoint:
 
-POST http://localhost:8080/produtos
+POST http://localhost:8080/categoria
 
 Descrição:
 Cria um novo produto no banco de dados.
@@ -41,7 +41,7 @@ Cria um novo produto no banco de dados.
 <img width="1062" height="515" alt="Captura de tela 2025-11-09 114722" src="https://github.com/user-attachments/assets/033ceae4-a9f0-4967-8513-f68d991f0150" />
 
 -------------------------------------------------------------------------
-❌ DELETE — Excluir produto
+❌ DELETE — Excluir produto ou categoria
 
 Endpoint:
 
@@ -55,7 +55,7 @@ Remove o produto do banco de dados de forma permanente.
 <img width="1053" height="509" alt="Captura de tela 2025-11-09 120034" src="https://github.com/user-attachments/assets/7741bfb9-3f6a-415f-9afd-f39cdfd98930" />
 
 -------------------------------------------------------------------------
-✏️ PUT — Atualizar produto existente
+✏️ PUT — Atualizar produto ou categoria existente
 
 Endpoint:
 
