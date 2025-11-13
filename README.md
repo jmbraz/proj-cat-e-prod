@@ -1,19 +1,5 @@
 # Projeto Sistema de Cadastro de Produtos
 
-## Descrição Geral
-
-O **Sistema de Cadastro de Produtos** é uma aplicação desenvolvida em **Java com Spring Boot e MySQL**. Seu objetivo é gerenciar **categorias de produtos**, **produtos** e **usuários com controle de acesso**, permitindo o cadastro, listagem, atualização e exclusão de registros.
-
-O sistema foi projetado com **autenticação HTTP Basic** e **autorização baseada em perfis** (COMUM e ADMIN), garantindo segurança e controle de acesso às operações.
-
-## Documentação do Projeto
-
-A documentação completa do sistema está disponível nos links abaixo:
-
-- [**Documentação do Projeto – Sistema de Cadastro de Produtos (PDF)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%93%20Sistema%20de%20Cadastro%20de%20Produtos.pdf)
-- [**Apresentação do Projeto – Sistema de Cadastro de Produtos (PDF)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Apresenta%C3%A7%C3%A3o%20Cadastro%20de%20Produtos.pdf)
-- [**Apresentação do Projeto – Sistema de Cadastro de Produtos (PPTX)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Apresenta%C3%A7%C3%A3o%20Cadastro%20de%20Produtos.pptx)
-
 ## Índice
 
 1. [Descrição Geral](#descrição-geral)
@@ -48,6 +34,20 @@ A documentação completa do sistema está disponível nos links abaixo:
     - [Arquivo `application.properties`](#arquivo-applicationproperties)
 11. [Conceitos Aplicados](#conceitos-aplicados)
 12. [Conclusão](#conclusão)
+    
+## Descrição Geral
+
+O **Sistema de Cadastro de Produtos** é uma aplicação desenvolvida em **Java com Spring Boot e MySQL**. Seu objetivo é gerenciar **categorias de produtos**, **produtos** e **usuários com controle de acesso**, permitindo o cadastro, listagem, atualização e exclusão de registros.
+
+O sistema foi projetado com **autenticação HTTP Basic** e **autorização baseada em perfis** (COMUM e ADMIN), garantindo segurança e controle de acesso às operações.
+
+## Documentação do Projeto
+
+A documentação completa do sistema está disponível nos links abaixo:
+
+- [**Documentação do Projeto – Sistema de Cadastro de Produtos (PDF)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%93%20Sistema%20de%20Cadastro%20de%20Produtos.pdf)
+- [**Apresentação do Projeto – Sistema de Cadastro de Produtos (PDF)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Apresenta%C3%A7%C3%A3o%20Cadastro%20de%20Produtos.pdf)
+- [**Apresentação do Projeto – Sistema de Cadastro de Produtos (PPTX)**](https://github.com/jmbraz/proj-cat-e-prod/blob/main/docs/Apresenta%C3%A7%C3%A3o%20Cadastro%20de%20Produtos.pptx)
 
 ## Integrantes
 
